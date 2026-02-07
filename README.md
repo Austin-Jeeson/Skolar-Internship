@@ -1,2 +1,2 @@
-# Skolar-Mjor-Projects
+  # Skolar-Internship
 All Major Projects - for Skolar
